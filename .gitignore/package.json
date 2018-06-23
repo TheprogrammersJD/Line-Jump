@@ -1,0 +1,12 @@
+{
+  "name": "Line Jump",
+  "version": "0.0.1",
+  "description": "Just search Helix Jump on Google Play",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
