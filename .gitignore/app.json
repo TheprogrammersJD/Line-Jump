@@ -1,0 +1,21 @@
+{
+  "name": "Line Jump",
+  "description": "Inspired by Helix Jump",
+  "website": "https://github.com/TheprogrammersJD/Line-Jump",
+  "repository": "https://github.com/TheprogrammersJD/Line-Jump",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
